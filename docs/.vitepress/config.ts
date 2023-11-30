@@ -31,14 +31,18 @@ export default defineConfig({
                         text: 'Making a connection',
                         link: '/making-connection',
                     },
+                    {
+                        text: 'Concepts',
+                        link: '/concepts',
+                    },
                 ],
             },
             {
                 text: 'API reference',
                 items: [
                     {
-                        text: 'Server to client',
-                        link: '/server-client',
+                        text: 'Throttle',
+                        link: '/throttle',
                     },
                     {
                         text: 'Client to server',
