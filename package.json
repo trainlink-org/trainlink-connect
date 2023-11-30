@@ -20,7 +20,7 @@
     "picocolors": "^1.0.0",
     "postcss": "^8.4.24",
     "preact": "^10.15.1",
-    "rollup": "^3.23.0",
+    "rollup": "^4.6.1",
     "shiki": "^0.14.2",
     "source-map-js": "^1.0.2",
     "tabbable": "^6.1.2",
